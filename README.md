@@ -1,5 +1,5 @@
 # Audio-to-Text-Mini-project-
-#This system converts large audio files to text using a divide-and-conquer approach:
+# **This system converts large audio files to text using a divide-and-conquer approach:**
 
 
 ## Process Flow:
@@ -22,16 +22,16 @@ Text Combination → Merge all transcriptions into final result
 ## Dependencies
 
 
-speech_recognition - Speech-to-text conversion using Google API
+**speech_recognition** - Speech-to-text conversion using Google API
 
 
-os - File and directory operations
+**os** - File and directory operations
 
 
-pydub - Audio file loading and manipulation
+**pydub** - Audio file loading and manipulation
 
 
-pydub.silence - Splitting audio based on silence detection
+**pydub.silence** - Splitting audio based on silence detection
 
 
 ## Advantages:
