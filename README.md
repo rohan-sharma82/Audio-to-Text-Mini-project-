@@ -1,5 +1,5 @@
 # Audio-to-Text-Mini-project-
-# **(*This system converts large audio files to text using a divide-and-conquer approach:*)**
+# ** *This system converts large audio files to text using a divide-and-conquer approach:* **
 
 
 ## Process Flow:
