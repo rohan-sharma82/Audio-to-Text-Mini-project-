@@ -4,19 +4,19 @@
 
 ## Process Flow:
 
-Audio Loading → Load entire audio file into memory.
+**Audio Loading** → Load entire audio file into memory.
 
 
-Silence Detection → Identify quiet periods (pauses) in speech.
+**Silence Detection** → Identify quiet periods (pauses) in speech.
 
 
-Smart Splitting → Cut audio at silence points to create chunks.
+**Smart Splitting** → Cut audio at silence points to create chunks.
 
 
-Individual Processing → Transcribe each chunk separately using Google's API.
+**Individual Processing** → Transcribe each chunk separately using Google's API.
 
 
-Text Combination → Merge all transcriptions into final result
+**Text Combination** → Merge all transcriptions into final result
 
 
 ## Dependencies
